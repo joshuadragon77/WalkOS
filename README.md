@@ -10,6 +10,8 @@ A ENEL 300 Group Project done by the Platyhorse Mifflin Incorporated (Joshua, Da
 - Parallism System for multi-tasking and kernal-like task handling capabilities.
 - 315 MHz transmitter and receiver driver for serial PWM communication
 - Support for a 8 button inptu system.
+The rendered animation below shows the concept in play.
+https://www.youtube.com/watch?v=zcFdYRzAg9Y
 
 ## Instructions
 You may use any IDE that can build this using microchip's includes and libraries. Include Targets for the AVR-Dx_DFP.
