@@ -1,5 +1,8 @@
 # Walkie Textie
 
+![IMG_5030](https://github.com/user-attachments/assets/8985cd24-f02d-4acf-a6f3-dd8756dcfa2d)
+
+
 A ENEL 300 Group Project done by the Platyhorse Mifflin Incorporated (Joshua, Darren, Sara and Jorrell). It contains all the components that allow Walk OS to function.
 
 ## Features
